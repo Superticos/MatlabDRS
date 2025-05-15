@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = GraphingCalculatorDemo
+build_property.ProjectDir = /workspaces/MatlabDRS/Sample Applications/GraphingCalculatorDemo/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
