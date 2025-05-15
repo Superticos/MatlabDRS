@@ -1,6 +1,0 @@
-/workspaces/MatlabDRS/Sample Applications/GraphingCalculatorDemo/obj/Debug/netcoreapp3.1/MainWindow.baml
-/workspaces/MatlabDRS/Sample Applications/GraphingCalculatorDemo/obj/Debug/netcoreapp3.1/MainWindow.g.cs
-/workspaces/MatlabDRS/Sample Applications/GraphingCalculatorDemo/obj/Debug/netcoreapp3.1/App.g.cs
-/workspaces/MatlabDRS/Sample Applications/GraphingCalculatorDemo/obj/Debug/netcoreapp3.1/GraphingCalculatorDemo_MarkupCompile.cache
-/workspaces/MatlabDRS/Sample Applications/GraphingCalculatorDemo/obj/Debug/netcoreapp3.1/GraphingCalculatorDemo.g.resources
-/workspaces/MatlabDRS/Sample Applications/GraphingCalculatorDemo/obj/Debug/netcoreapp3.1/GraphingCalculatorDemo.csproj.GenerateResource.cache

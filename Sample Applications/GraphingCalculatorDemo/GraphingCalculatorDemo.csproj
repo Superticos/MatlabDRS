@@ -1,9 +1,0 @@
-<!-- filepath: /workspaces/MatlabDRS/Sample Applications/GraphingCalculatorDemo/GraphingCalculatorDemo.csproj -->
-<Project Sdk="Microsoft.NET.Sdk">
-  <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net7.0-windows</TargetFramework>
-    <UseWPF>true</UseWPF>
-    <EnableWindowsTargeting>true</EnableWindowsTargeting>
-  </PropertyGroup>
-</Project>
