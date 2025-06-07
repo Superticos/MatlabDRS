@@ -1,0 +1,14 @@
+include README.md
+include LICENSE
+include requirements.txt
+include pyproject.toml
+recursive-include drs_analyzer/config *.yaml
+recursive-include drs_analyzer/gui/icons *.png
+recursive-include drs_analyzer/gui/styles *.qss
+recursive-include drs_analyzer/themes *.json
+recursive-include docs *
+recursive-include examples *
+recursive-exclude * __pycache__
+recursive-exclude * *.pyc
+recursive-exclude * *.pyo
+recursive-exclude * .DS_Store

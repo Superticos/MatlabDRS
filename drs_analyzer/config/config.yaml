@@ -1,0 +1,62 @@
+# Application Configuration for DRS Analyzer
+
+# Processing settings
+processing:
+  default_baseline: 'polynomial'
+  default_smoothing: 'savgol'
+  default_normalization: 'minmax'
+  batch_size: 1000
+  parallel_workers: 4
+
+# Peak detection settings
+peak_detection:
+  height_threshold: 0.1
+  prominence_threshold: 0.05
+  distance: 10
+  width_range: [2, 20]
+
+# Plotting settings
+plotting:
+  theme: 'default'
+  dpi: 300
+  figure_size: [10, 8]
+  color_palette: 'viridis'
+  interactive: true
+  line_width: 1.5
+  font_size: 12
+
+# Export settings
+export:
+  default_format: 'png'
+  include_metadata: true
+  compression: true
+  quality: 95
+
+# GUI settings
+gui:
+  window_size: [1200, 800]
+  remember_size: true
+  remember_position: true
+  theme: 'default'
+  auto_save_settings: true
+
+# Cache settings
+cache:
+  enabled: true
+  max_size_mb: 100
+  auto_cleanup: true
+  ttl_hours: 24
+
+# Logging settings
+logging:
+  level: 'INFO'
+  console_output: true
+  file_output: true
+  max_file_size_mb: 10
+  backup_count: 5
+
+# General settings
+general:
+  temp_dir: null
+  max_memory_mb: 4096
+  show_warnings: true
